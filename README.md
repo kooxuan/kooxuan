@@ -7,7 +7,7 @@ Computer Science (Bioinformatics) student
 I am a student who studying in Bachelor of Computer Science (Bioinformatics) in UTM, Malaysia.
 
 * 🌍  I'm based in Malaysia
-* ✉️  You can contact me at [xuan-04@graduate.utm.my](mailto:xuan-04@graduate.utm.my)
+* ✉️  You can contact me at [kooxuan.04@gmail.com](mailto:kooxuan.04@gmail.com)
 
 ### Skills
 
