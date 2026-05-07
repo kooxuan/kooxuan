@@ -78,8 +78,8 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
       </a>
     </td>
     <td>
-      <a href="mailto:kooxuan.04@gmail.com">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gmail.svg" width="40"/>
+      <a href="mailto:kooxuan.04@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="40" />
       </a>
     </td>
   </tr>
