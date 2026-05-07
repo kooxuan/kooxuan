@@ -9,7 +9,6 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
 * 🌍  I'm based in Malaysia
 * ✉️  You can contact me at [kooxuan.04@gmail.com](mailto:kooxuan.04@gmail.com)
 
-```md
 
 ### Skills
 
@@ -52,7 +51,6 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
 
 </p>
 
-```md
 
 ### Socials
 
@@ -75,5 +73,4 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
 </a>
 
 </p>
-```
 
