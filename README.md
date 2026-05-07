@@ -12,8 +12,6 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
 
 ### Skills
 
-<p align="left">
-
 <a href="https://www.python.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="40" height="40" alt="Python" />
 </a>
@@ -54,7 +52,6 @@ I am a student who studying in Bachelor of Computer Science (Bioinformatics) in 
 
 ### Socials
 
-<p align="left">
 
 <a href="https://github.com/kooxuan" target="_blank" rel="noreferrer" style="margin-right: 15px;">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" />
